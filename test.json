@@ -1,0 +1,13 @@
+{
+  "kafka": {
+    "autoCreateTopics": false,
+    "interBrokerProtocolVersion": "3.3",
+    "kafkaVersion": "3.3.2",
+    "storage": {
+      "deleteClaim": false
+    },
+    "version": "3.3.2"
+  },
+  "namespace": "apps",
+  "tmpDirSizeLimit": "10Mi"
+}
